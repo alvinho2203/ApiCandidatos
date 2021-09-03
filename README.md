@@ -1,4 +1,4 @@
-Software desenvolvido em ASP NET CORE C#, CRUD MVC que faz cadastro de candidato a vagas de emprego. Para testar os métodos GET/POST/PUT/DELETE pode se usar ou Power Shell ou Postman. 
+API desenvolvidA em ASP NET CORE C#, CRUD MVC que faz cadastro de candidato a vagas de emprego. Para testar os métodos GET/POST/PUT/DELETE pode se usar ou Power Shell ou Postman. 
  Seguem os comandos
 
 POST =
@@ -33,5 +33,5 @@ GET = https://apicandidatos.azurewebsites.net/api/candidatos?incluirendereco=tru
 DELETE = https://apicandidatos.azurewebsites.net/api/candidatos?id=Nº (Colocar o numero do id do candidato)
 
 LINK API AZURE-
-https://apicandidatos.azurewebsites.net/api/candidatos
+https://apicandidatos.azurewebsites.net/
 
