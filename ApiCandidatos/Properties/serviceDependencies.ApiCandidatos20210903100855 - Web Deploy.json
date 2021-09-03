@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/apicandidatosdbserver/databases/ApiCandidatos_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:candidatos",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

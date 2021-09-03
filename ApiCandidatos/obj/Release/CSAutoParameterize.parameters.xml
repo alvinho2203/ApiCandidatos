@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="CandidatosContext-Web.config Connection String" description="CandidatosContext A Cadeia de Conexão usada em web.config pelo aplicativo para acessar o banco de dados." defaultValue="Data Source=apicandidatosdbserver.database.windows.net;Initial Catalog=ApiCandidatos_db;User ID=candidatos;Password=Andre220394*;Connect Timeout=60;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\andre\\Desktop\\ApiCandidatos\\ApiCandidatos\\obj\\Release\\Package\\PackageTmp\\Areas\\HelpPage\\Views\\Web\.config$" match="/configuration/connectionStrings/add[@name='CandidatosContext']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\andre\\Desktop\\ApiCandidatos\\ApiCandidatos\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CandidatosContext']/@connectionString" />
+  </parameter>
+</parameters>
